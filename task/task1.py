@@ -1,3 +1,4 @@
+#组成三位数
 numbers_list = []
 for a in range(1,5):
     for b in range(1,5):

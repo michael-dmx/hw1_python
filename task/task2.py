@@ -1,3 +1,4 @@
+#排序
 x = int(input("请输入整数x"))
 y = int(input("请输入整数y"))
 z = int(input("请输入整数z"))
